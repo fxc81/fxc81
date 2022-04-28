@@ -27,4 +27,6 @@ ___
 
 **<h2 align="center">Statistics</h2>**
 
+<div align="center">
 ![-](https://github-readme-stats.vercel.app/api?username=fxc81&hide=contribs,prs&theme=highcontrast)
+</div>
